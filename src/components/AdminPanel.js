@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import initialProducts from '../data';
+import initialProducts from './data';
 
 function AdminPanel() {
   const [products, setProducts] = useState(initialProducts);

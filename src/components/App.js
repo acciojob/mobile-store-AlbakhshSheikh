@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import ProductList from './ProductList';
 import ProductDetails from './ProductDetails';
 import AdminPanel from './AdminPanel';
-import './App.css';
+import '../styles/App.css';
 
 function App() {
   return (
