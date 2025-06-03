@@ -1,0 +1,309 @@
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: ..\..\..\..\AppData\Local\Temp\jest_runner_mobile_store_uttu316_utkarshg.json
